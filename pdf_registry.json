@@ -1,0 +1,30 @@
+[
+  {
+    "pdf_name": "Attention",
+    "collection_name": "multi_modal_rag2"
+  },
+  {
+    "pdf_name": "Prueba 2",
+    "collection_name": "collection_Prueba_2"
+  },
+  {
+    "pdf_name": "Prueba 9",
+    "collection_name": "collection_pruebo9"
+  },
+  {
+    "pdf_name": "BOE",
+    "collection_name": "collection_BOE"
+  },
+  {
+    "pdf_name": "Apuntes LSTM",
+    "collection_name": "collection_Apuntes_LSTM"
+  },
+  {
+    "pdf_name": "Apuntes Matemáticas",
+    "collection_name": "matematicas"
+  },
+  {
+    "pdf_name": "Test",
+    "collection_name": "collection_Test"
+  }
+]
