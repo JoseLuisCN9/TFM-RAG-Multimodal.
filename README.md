@@ -82,7 +82,7 @@ tfm-rag-multimodal/
 ├── main.py                    # Ejecución del pipeline RAG
 ├── pdf_registry.json          # Contiene información sobre los PDF procesados
 ├── requirements.txt           # Dependencias del proyecto
-└── README.md                  # Este archivo
+└── README.md                  # Archivo actual
 ```
 ---
 
