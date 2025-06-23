@@ -84,6 +84,8 @@ tfm-rag-multimodal/
 ├── requirements.txt           # Dependencias del proyecto
 └── README.md                  # Archivo actual
 ```
+**Observación:** Al introducir archivos PDF, el programa creará una carpeta de chroma donde se almacenará la información del documento en forma de embeddings.
+
 ---
 
 ## 🧠 Descripción General
