@@ -68,7 +68,7 @@ En este script esta todo el trabajo, al ejercutarlo nos da una ruta para cargar 
 ```
 
 b) ```gt.ipynb```
-Este archivo es un notebook que contiene las preguntas y respuestas generadas para la evalaución del modelo.
+Este archivo es un notebook que contiene las preguntas y respuestas generadas para la evaluación del modelo.
 
 
 ---
